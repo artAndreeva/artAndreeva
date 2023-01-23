@@ -10,7 +10,7 @@
 ## :hammer_and_wrench: Навыки:
 
 <div style="display:flex; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="30" height="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google Chrome" alt="Google Chrome" width="30" height="30">
