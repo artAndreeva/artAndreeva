@@ -1,19 +1,3 @@
-<!--
-### Hi there 👋
-**artAndreeva/artAndreeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 📂 Проекты:
 
 ### ✅ Курс web-разработчик Яндекс.Практикум:
@@ -23,7 +7,7 @@ Here are some ideas to get you started:
 - Конкурсная работа по верстке - [Road Club](https://github.com/artAndreeva/RoadClub)
 - Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/artAndreeva/mesto)
 
-## :hammer_and_wrench: Навыки
+## :hammer_and_wrench: Навыки:
 
 <div style="display:flex; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="30" height="30">
@@ -39,8 +23,25 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30">
 </div>
+
 <!--
-## :fire: Статистика
+## :fire: Статистика:
 
 [![codewars](https://www.codewars.com/users/artAndreeva/badges/large)](https://www.codewars.com/users/artAndreeva)
+-->
+
+<!--
+### Hi there 👋
+**artAndreeva/artAndreeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
