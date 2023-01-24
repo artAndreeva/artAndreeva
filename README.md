@@ -4,7 +4,7 @@
 
 - Спринт 1-2 - [How to learn](https://github.com/artAndreeva/how-to-learn)
 - Спринт 3 - [Russian travel](https://github.com/artAndreeva/russian-travel)
-- Конкурсная работа по верстке - [Road Club](https://github.com/artAndreeva/RoadClub)
+- Работа на соревнования по верстке - [Road Club](https://github.com/artAndreeva/RoadClub)
 - Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/artAndreeva/mesto)
 
 ## :hammer_and_wrench: Навыки:
