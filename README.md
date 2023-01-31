@@ -1,6 +1,6 @@
 ## 📂 Проекты:
 
-### Курс web-разработчик Яндекс.Практикум:
+### Курс веб-разработчик Яндекс.Практикум:
 
 - Спринт 1-2 - [How to learn](https://github.com/artAndreeva/how-to-learn)
 - Спринт 3 - [Russian travel](https://github.com/artAndreeva/russian-travel)
