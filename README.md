@@ -6,7 +6,7 @@
 - Спринт 3 - [Russian travel](https://github.com/artAndreeva/russian-travel)
 - Работа на соревнования по верстке - [Road Club](https://github.com/artAndreeva/RoadClub)
 - Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/artAndreeva/mesto)
-- Спринт 10-11 - [Mesto](https://github.com/artAndreeva/mesto-react)
+- Спринт 10-11 - [Mesto React](https://github.com/artAndreeva/mesto-react)
 
 ## :hammer_and_wrench: Навыки:
 
