@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Webpack" alt="Webpack" width="30" height="30">
 </div>
 
 <!--
