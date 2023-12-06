@@ -1,14 +1,16 @@
 ## 📂 Проекты:
 
-### Курс веб-разработчик Яндекс.Практикум:
+###Разработка
+- Космическая бургерная - [Stellar Burgers](https://github.com/artAndreeva/react-burger)
+- Социальная сеть - [Mesto](https://github.com/artAndreeva/react-mesto-auth)
+- Поиск фильмов - [Movies Explorer](https://github.com/artAndreeva/react-mesto-auth](https://github.com/artAndreeva/movies-explorer-frontend)
 
-- Спринт 1-2 - [How to learn](https://github.com/artAndreeva/how-to-learn)
-- Спринт 3 - [Russian travel](https://github.com/artAndreeva/russian-travel)
-- Работа на соревнования по верстке - [Road Club](https://github.com/artAndreeva/RoadClub)
-- Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/artAndreeva/mesto)
-- Спринт 10-11-12 - [Mesto React](https://github.com/artAndreeva/mesto-react)
+###Верстка
+- Обзор мест для путешествий - [Russian travel](https://github.com/artAndreeva/russian-travel)
+- Советы по выбору велосипедов - [Road Club](https://github.com/artAndreeva/RoadClub)
+- Знакомство с принципами обучения - [How to learn](https://github.com/artAndreeva/how-to-learn)
 
-## :hammer_and_wrench: Навыки:
+## Навыки:
 
 <div style="display:flex; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="30" height="30">
