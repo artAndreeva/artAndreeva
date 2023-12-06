@@ -13,7 +13,7 @@
 ## 🛠️ Навыки:
 
 ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2320232a.svg?style=flat-square&logo=adobephotoshop&logoColor=%2361DAFB)
-![Illustrator](https://img.shields.io/badge/Illustrator-%2320232a.svg?style=flat-square&logo=Illustrator&logoColor=%2361DAFB)
+![Illustrator](https://img.shields.io/badge/adobeIllustrator-%2320232a.svg?style=flat-square&logo=Illustrator&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/Figma-%2320232a.svg?style=flat-square&logo=Figma&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=flat-square&logo=CSS3&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%2320232a.svg?style=flat-square&logo=HTML5&logoColor=%2361DAFB)
