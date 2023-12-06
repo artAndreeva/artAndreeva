@@ -15,40 +15,21 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2320232a.svg?style=flat-square&logo=adobephotoshop&logoColor=%2361DAFB)
 ![Illustrator](https://img.shields.io/badge/Illustrator-%2320232a.svg?style=flat-square&logo=adobeillustrator&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/Figma-%2320232a.svg?style=flat-square&logo=figma&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/Git-%2320232a.svg?style=flat-square&logo=git&logoColor=%2361DAFB)
+![Bash](https://img.shields.io/badge/Bash-%2320232a.svg?style=flat-square&logo=bash&logoColor=%2361DAFB)
+![Webpack](https://img.shields.io/badge/Webpack-%2320232a.svg?style=flat-square&logo=webpack&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=flat-square&logo=css3&logoColor=%2361DAFB)
+![BEM](https://img.shields.io/badge/BEM-%2320232a.svg?style=flat-square&logo=bem&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%2320232a.svg?style=flat-square&logo=html5&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=flat-square&logo=javascript&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=flat-square&logo=typescript&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?style=flat-square&logo=redux&logoColor=%2361DAFB)
-
-
-
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 	
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
-![Wordpress](https://shields.io/badge/Wordpress-3159C6?logo=Wordpress&logoColor=FFF&style=flat-square) 
-
-
-
-<div style="display:flex; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google Chrome" alt="Google Chrome" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Webpack" alt="Webpack" width="30" height="30">
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-%2320232a.svg?style=flat-square&logo=nodedotjs&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%2320232a.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=flat-square&logo=mongodb&logoColor=%2361DAFB)
+![Postman](https://img.shields.io/badge/Postman-%2320232a.svg?style=flat-square&logo=postman&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-%2320232a.svg?style=flat-square&logo=jsonwebtokens&logoColor=%2361DAFB)
 
 ## 📊 Статистика:
 
