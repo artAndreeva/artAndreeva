@@ -21,6 +21,7 @@
 ![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?style=flat-square&logo=redux&logoColor=%2361DAFB)
 
 
+
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
