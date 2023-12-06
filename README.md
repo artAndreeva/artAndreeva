@@ -19,6 +19,7 @@
 ![Bash](https://img.shields.io/badge/Bash-%2320232a.svg?style=flat-square&logo=bash&logoColor=%2361DAFB)
 ![Webpack](https://img.shields.io/badge/Webpack-%2320232a.svg?style=flat-square&logo=webpack&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=flat-square&logo=css3&logoColor=%2361DAFB)
+![CSS Modules](https://img.shields.io/badge/CSSModules-%2320232a.svg?style=flat-square&logo=cssmodules&logoColor=%2361DAFB)
 ![BEM](https://img.shields.io/badge/BEM-%2320232a.svg?style=flat-square&logo=bem&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%2320232a.svg?style=flat-square&logo=html5&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=flat-square&logo=javascript&logoColor=%2361DAFB)
