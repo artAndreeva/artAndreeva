@@ -11,14 +11,10 @@
 - Знакомство с принципами обучения - [How to learn](https://github.com/artAndreeva/how-to-learn)
 
 ## 🛠️ Навыки:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=Javascript&logoColor=%23F7DF1E) 
 
-
-![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=flat-square&logo=css3&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=flat-square&logo=html5&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/Javascript-%2320232a.svg?style=flat-square&logo=Javascript&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=flat-square&logo=CSS3&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%2320232a.svg?style=flat-square&logo=HTML5&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=flat-square&logo=JavaScript&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=flat-square&logo=TypeScript&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?style=flat-square&logo=redux&logoColor=%2361DAFB)
