@@ -1,11 +1,11 @@
 ## 📂 Проекты:
 
-###Разработка
+### Разработка
 - Космическая бургерная - [Stellar Burgers](https://github.com/artAndreeva/react-burger)
 - Социальная сеть - [Mesto](https://github.com/artAndreeva/react-mesto-auth)
 - Поиск фильмов - [Movies Explorer](https://github.com/artAndreeva/react-mesto-auth](https://github.com/artAndreeva/movies-explorer-frontend)
 
-###Верстка
+### Верстка
 - Обзор мест для путешествий - [Russian travel](https://github.com/artAndreeva/russian-travel)
 - Советы по выбору велосипедов - [Road Club](https://github.com/artAndreeva/RoadClub)
 - Знакомство с принципами обучения - [How to learn](https://github.com/artAndreeva/how-to-learn)
