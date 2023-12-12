@@ -36,6 +36,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=flat-square&logo=mongodb&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-%2320232a.svg?style=flat-square&logo=postman&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-%2320232a.svg?style=flat-square&logo=jsonwebtokens&logoColor=%2361DAFB)
+![Cypress](https://img.shields.io/badge/Cypress-%2320232a.svg?style=flat-square&logo=cypress&logoColor=%2361DAFB)
+![Jest](https://img.shields.io/badge/Jest-%2320232a.svg?style=flat-square&logo=jest&logoColor=%2361DAFB)
 
 ## 📊 Статистика:
 
